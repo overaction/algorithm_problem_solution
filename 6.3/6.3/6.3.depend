@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624530271 source:d:\project\algorithms\알고리즘 문제 해결 전략\algorithm_problem_solution\6.3\6.3\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<vector>
+
