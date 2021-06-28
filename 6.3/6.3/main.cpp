@@ -38,6 +38,7 @@ int main()
         for(int i=0; i<m; i++) {
             int a,b;
             scanf("%d %d",&a,&b);
+            // 한쪽이 친구면 다른쪽도 친구다
             friends[a][b] = 1;
             friends[b][a] = 1;
         }
