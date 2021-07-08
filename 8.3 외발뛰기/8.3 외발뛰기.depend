@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625684169 source:d:\project\algorithms\baekjoon_algorithm\1065-한수\8.3 외발뛰기\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+
