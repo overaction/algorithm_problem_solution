@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625411172 source:d:\project\algorithms\baekjoon_algorithm\1065-한수\7.4 울타리 잘라내기\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+
