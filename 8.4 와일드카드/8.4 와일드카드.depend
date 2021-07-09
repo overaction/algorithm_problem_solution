@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1625729518 source:d:\project\algorithms\baekjoon_algorithm\1065-한수\8.4 와일드카드\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstring>
+	<stdio.h>
+
