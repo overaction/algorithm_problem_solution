@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1625821836 source:d:\project\algorithms\알고리즘 문제 해결 전략\algorithm_problem_solution\예제) 삼각형 위의 최대 경로 (dp)\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<cstring>
+	<algorithm>
+
