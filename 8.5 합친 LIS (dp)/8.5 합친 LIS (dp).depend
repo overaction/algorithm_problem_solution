@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1625848439 source:d:\project\algorithms\baekjoon_algorithm\1065-한수\8.5 합친 lis (dp)\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<cstring>
+
+1625848439 source:d:\project\algorithms\알고리즘 문제 해결 전략\algorithm_problem_solution\8.5 합친 lis (dp)\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<cstring>
+
