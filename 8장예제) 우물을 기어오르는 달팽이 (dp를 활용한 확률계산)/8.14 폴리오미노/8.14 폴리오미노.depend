@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626502970 source:d:\project\algorithms\알고리즘 문제 해결 전략\algorithm_problem_solution\8장예제) 우물을 기어오르는 달팽이 (dp를 활용한 확률계산)\8.14 폴리오미노\main.cpp
+	<cstdio>
+	<cstring>
+
