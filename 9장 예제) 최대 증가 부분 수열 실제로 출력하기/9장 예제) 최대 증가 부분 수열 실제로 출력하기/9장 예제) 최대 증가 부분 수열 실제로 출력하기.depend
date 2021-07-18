@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1626621257 source:d:\project\algorithms\알고리즘 문제 해결 전략\algorithm_problem_solution\9장 예제) 최대 증가 부분 수열 실제로 출력하기\9장 예제) 최대 증가 부분 수열 실제로 출력하기\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<vector>
+	<cstring>
+	<cmath>
+
