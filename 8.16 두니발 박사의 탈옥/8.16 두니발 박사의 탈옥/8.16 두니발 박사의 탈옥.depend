@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1626529885 source:d:\project\algorithms\알고리즘 문제 해결 전략\algorithm_problem_solution\8.16 두니발 박사의 탈옥\8.16 두니발 박사의 탈옥\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<vector>
+	<cstring>
+	<cmath>
+
