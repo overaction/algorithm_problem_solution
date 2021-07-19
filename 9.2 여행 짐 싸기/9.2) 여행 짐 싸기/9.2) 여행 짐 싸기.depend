@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1626706067 source:d:\project\algorithms\알고리즘 문제 해결 전략\algorithm_problem_solution\9.2 여행 짐 싸기\9.2) 여행 짐 싸기\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<vector>
+	<cstring>
+	<cmath>
+
