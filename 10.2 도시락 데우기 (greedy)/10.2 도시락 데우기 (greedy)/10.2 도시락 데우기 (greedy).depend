@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1628956886 source:d:\project\algorithms\알고리즘 문제 해결 전략\algorithm_problem_solution\10.2 도시락 데우기 (greedy)\10.2 도시락 데우기 (greedy)\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<cstring>
+	<vector>
+
